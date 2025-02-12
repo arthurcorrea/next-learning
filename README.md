@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # next-learning
 Aprendendo sobre NextJS
 =======
